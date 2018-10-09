@@ -15,6 +15,6 @@ npm start
 ```
 * Open the client at http://localhost:3000/
 * The metronome will show up like this:
-
+![metronome pic](./metronome.png)
 ## Built with
 * [React](https://reactjs.org/)
