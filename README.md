@@ -14,5 +14,7 @@ cd metronome
 npm start
 ```
 * Open the client at http://localhost:3000/
+* The metronome will show up like this:
+
 ## Built with
 * [React](https://reactjs.org/)
